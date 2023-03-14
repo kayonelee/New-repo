@@ -8,3 +8,7 @@ git status
 It shows status of repo
 git log
 adding log
+
+git Checkout -b 
+
+Creates a new branch and switch to it

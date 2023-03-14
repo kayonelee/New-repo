@@ -6,3 +6,5 @@ git add
 git status
 
 It shows status of repo
+git log
+adding log

@@ -2,3 +2,7 @@
 sdfd
 dfd
 git add
+
+git status
+
+It shows status of repo
